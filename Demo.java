@@ -8,6 +8,9 @@ public class Demo
 		System.out.println(John);
 		System.out.println(John);
 		System.out.println(John);
+		System.out.println(John);
+		System.out.println(John);
+		System.out.println(John);
 	}
 
 }
