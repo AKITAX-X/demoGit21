@@ -5,6 +5,9 @@ public class Demo
 	{	
 		Makelaar John = new Makelaar();
 		System.out.println(John);
+		System.out.println(John);
+		System.out.println(John);
+		System.out.println(John);
 	}
 
 }
